@@ -1,0 +1,66 @@
+body{
+    width: 100vw;
+    height: 100vh;
+}
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.input{
+    display: none;
+}
+
+
+
+/*  */
+/* .fragment{
+    position: absolute;
+    width: 5px;
+    height: 2.5px;
+    background-color: aliceblue;
+    top: 23px;
+    right: 25%;
+    border-radius: 2px;
+    transition: .4s;
+}
+.fragment:before{
+    position: absolute;
+    content: "";
+    top: -2px;
+    left: -10px;
+    width: 20px;
+    height: 2.5px;
+    background-color:aliceblue;
+    border-radius: 2px;
+}
+.fragment::after{
+    position: absolute;
+    content: "";
+    top: 2px;
+    left: -5px;
+    width: 20px;
+    height: 2.5px;
+    background-color: aliceblue;
+    border-radius: 2px;
+}
+.input:checked + .switch .fragment{
+    right: 70%;
+    width: 3px;
+    height: 3px;
+    box-shadow: 0px 0 5px 1px wheat;
+}
+.input:checked + .switch .fragment::after{
+    width: 3px;
+    height: 3px;
+    top: -7px;
+    left: -8px;
+    box-shadow: 0px 0 3px 1px wheat;
+}
+.input:checked + .switch .fragment::before{
+    width: 3px;
+    height: 3px;
+    top: 7px;
+    left: -12px;
+    box-shadow: 0px 0 3px 1px wheat;
+} */
