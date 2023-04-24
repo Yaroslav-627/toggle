@@ -4,8 +4,8 @@
     width: 100px;
     height: 50px;
     border-radius: 50px;
-    background-color: #96dcee;
-    border: solid 3px #72cce3;
+    background: linear-gradient(90deg, rgba(210,118,133,1) 0%, rgba(102,52,127,1) 100%);
+    border: solid 3px #763c92;
     display: block;
     transition: .5s;
 }
@@ -27,8 +27,8 @@
     left: 60%;
 }
 .input:checked + .switch{
-    background-color: #808fc7;
-    border: solid 3px #5d6baa;
+    background:  linear-gradient(270deg, rgba(137,77,167,1) 0%, rgba(37,31,84,1) 100%);
+    border: solid 3px #163157;
 }
 /* @keyframes fragment{
 0%{
